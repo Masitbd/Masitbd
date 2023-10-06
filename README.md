@@ -1,3 +1,4 @@
+![Frame 1 (1)](https://github.com/Masitbd/Masitbd/assets/65397236/e5ca2209-d048-432e-8458-032cc40c6acd)
 <h2 align="center">Hi 👋, I'm Murad Hossain Sarker</h2>
 <h3 align="center">A passionate frontend developer & UI/UX designer</h3>
 <h2>About Me</h2>
