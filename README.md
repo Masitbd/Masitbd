@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Murad Hossain Sarker</h1>
+<h2 align="center">Hi 👋, I'm Murad Hossain Sarker</h2>
 <h3 align="center">A passionate frontend developer & UI/UX designer</h3>
+<h2>About Me</h2>
+<p>A highly motivated professional with a deep understanding of web development technologies and tools. I am actively seeking a position within a forward-thinking company that is focused on growth. I can utilize my skills to contribute to the company's expansion  while also having the opportunity to further develop my own expertise.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masitbd&label=Profile%20views&color=0e75b6&style=flat" alt="masitbd" /> </p>
+
+
 
 - 🔭 I’m currently working on [Web Development](https://universal-books-service.netlify.app/)
 
