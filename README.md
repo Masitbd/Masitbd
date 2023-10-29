@@ -6,7 +6,7 @@
 <h2>Skills</h2>
 HTML / CSS / Bootstrap / Tailwind / Antd / Material-Design / JavaScript / React / Node.js / Express.js / MongoDB / postgresql / Firebase / JWT Token / Postman / Axios / React-Hook-Form / Redux / Redux-Toolkit / RTK Query / Figma
 
-- 🔭 I’m currently working on [Web Development](https://universal-books-service.netlify.app/)
+- 🔭 I’m currently working on [Web Development](https://universal-book-service.netlify.app/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
