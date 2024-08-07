@@ -16,7 +16,7 @@ HTML / CSS / Bootstrap / Tailwind / Antd / Material-Design / JavaScript / React 
 
 - 📫 How to reach me **sarker24@gmail.com**
 
-- 📄 My resume [Link](https://drive.google.com/file/d/1ySNo6ltym4JyLLeErjH35sHj386xH79P/view)
+- 📄 My resume [Link](https://drive.google.com/file/d/1yQP37J15dULHDnvQDnQEwB-hBTxD3t-J/view?usp=sharing)
 
 - ⚡ Fun fact **Coding | UI Design | Traveling**
 
